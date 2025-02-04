@@ -27,5 +27,7 @@ The R code **“DENGUE-maps”** performs a descriptive analysis of dengue cases
 [9]	E. Pebesma, “Simple Features for R: Standardized Support for Spatial Vector Data,” R J, vol. 10, no. 1, pp. 439–446, 2018.
 
 [10]	D. Dunnington, “ggspatial: Spatial Data Framework for ggplot2,” 2023. Accessed: Feb. 01, 2025. [Online]. Available: https://github.com/paleolimbot/ggspatial
+
 [11]	H. Wickham, D. Vaughan, and M. Girlich, “tidyr: Tidy Messy Data,” 2024, 1.3.1. Accessed: Feb. 01, 2025. [Online]. Available: https://tidyr.tidyverse.org
+
 
