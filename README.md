@@ -11,13 +11,21 @@ The R code **“DENGUE-maps”** performs a descriptive analysis of dengue cases
 [1] E. A. Martínez Álvarez, “SIVIGILA, an infrastructure mobilizing diseases, policies and practices in public health surveillance,” Revista Colombiana de Sociología, vol. 39, no. 2, Jul. 2016, doi: 10.15446/rcs.v39n2.58977.
 
 [2] E. W. Sayers et al., “GenBank 2024 Update,” Nucleic Acids Res, vol. 52, no. D1, pp. D134–D137, Jan. 2024, doi: 10.1093/nar/gkad903.
+
 [3] R Core Team, “R: A language and environment for statistical computing,” 2021, R Foundation for Statistical Computing, Vienna, Austria.: 4.4.2. Accessed: Feb. 01, 2025. [Online]. Available: https://www.R-project.org/
+
 [4]	RStudio Team, “RStudio: Integrated Development for R,” 2020, RStudio, PBC, Boston, MA: 2024.12.0.
+
 [5]	Python Software Foundation, “Python Language Reference,” 3.12.2. Accessed: Feb. 01, 2025. [Online]. Available: https://docs.python.org/3/
+
 [6]	P. J. A. Cock et al., “Biopython: freely available Python tools for computational molecular biology and bioinformatics,” Bioinformatics, vol. 25, no. 11, pp. 1422–1423, Jun. 2009, doi: 10.1093/bioinformatics/btp163.
+
 [7]	H. Wickham, ggplot2: Elegant Graphics for Data Analysis, Second Edition. in Use R! Cham: Springer International Publishing, 2016. doi: 10.1007/978-3-319-24277-4.
+
 [8]	H. Wickham, R. François, L. Henry, K. Müller, and D. Vaughan, “dplyr: A Grammar of Data Manipulation,” 2023, 1.1.4. Accessed: Feb. 01, 2025. [Online]. Available: https://github.com/tidyverse/dplyr
+
 [9]	E. Pebesma, “Simple Features for R: Standardized Support for Spatial Vector Data,” R J, vol. 10, no. 1, pp. 439–446, 2018.
+
 [10]	D. Dunnington, “ggspatial: Spatial Data Framework for ggplot2,” 2023. Accessed: Feb. 01, 2025. [Online]. Available: https://github.com/paleolimbot/ggspatial
 [11]	H. Wickham, D. Vaughan, and M. Girlich, “tidyr: Tidy Messy Data,” 2024, 1.3.1. Accessed: Feb. 01, 2025. [Online]. Available: https://tidyr.tidyverse.org
 
