@@ -9,6 +9,7 @@ The R code **“DENGUE-maps”** performs a descriptive analysis of dengue cases
 **References**
 
 [1] E. A. Martínez Álvarez, “SIVIGILA, an infrastructure mobilizing diseases, policies and practices in public health surveillance,” Revista Colombiana de Sociología, vol. 39, no. 2, Jul. 2016, doi: 10.15446/rcs.v39n2.58977.
+
 [2] E. W. Sayers et al., “GenBank 2024 Update,” Nucleic Acids Res, vol. 52, no. D1, pp. D134–D137, Jan. 2024, doi: 10.1093/nar/gkad903.
 [3] R Core Team, “R: A language and environment for statistical computing,” 2021, R Foundation for Statistical Computing, Vienna, Austria.: 4.4.2. Accessed: Feb. 01, 2025. [Online]. Available: https://www.R-project.org/
 [4]	RStudio Team, “RStudio: Integrated Development for R,” 2020, RStudio, PBC, Boston, MA: 2024.12.0.
