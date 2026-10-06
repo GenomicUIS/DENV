@@ -284,9 +284,9 @@ The accompanying optional `cite_packages.R` exports the recommended citations fo
 
 ## How to cite this project
 
-Suggested institutional reference, until named software authors and a release identifier are documented:
+Suggested institutional reference:
 
-> Cadena-Caballero, C.E., Vera-Cala, L.M., Barrios Hernández, C.J., Martinez-Perez, F. (2026). SIVIGILA Dengue Pipeline: historical dengue surveillance data processing in R. Laboratory of Applied Cellular Genomics, Industrial University of Santander, Bucaramanga, Santander, Colombia. Available from: https://github.com/GenomicUIS/DENV/tree/main/code_SIVIGILA
+> Cadena-Caballero, C.E., Vera-Cala, L.M., Barrios Hernández, C.J., Martinez-Perez, F. (2026). SIVIGILA Dengue Pipeline: historical dengue surveillance data processing in R. Laboratory of Applied Cellular Genomics, Industrial University of Santander, Bucaramanga, Santander, Colombia. Version 0.1. Available from: https://github.com/GenomicUIS/DENV/tree/main/code_SIVIGILA
 
 For reproducibility, include the release tag or full commit used. The version inspected while preparing this documentation was commit `aafa9fd770564615037ba556b365719327e4322a`, dated 6 October 2026. This is a source identifier, not a software DOI or proof of runtime validation. Cite the thesis separately. Cite INS data [2] and DANE cartography [6] separately from the code.
 
