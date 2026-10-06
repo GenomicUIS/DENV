@@ -286,11 +286,9 @@ The accompanying optional `cite_packages.R` exports the recommended citations fo
 
 Suggested institutional reference, until named software authors and a release identifier are documented:
 
-> Cadena-Caballero, C.E., Vera-Cala, L.M., Barrios Hernández, C.J., Martinez-Perez, F. (2026). SIVIGILA Dengue Pipeline: historical dengue surveillance data processing in R. Laboratory of Applied Cellular Genomics, Industrial University of Santander Bucaramanga, Santander, Colombia. Available from: https://github.com/GenomicUIS/DENV/tree/main/code_SIVIGILA
+> Cadena-Caballero, C.E., Vera-Cala, L.M., Barrios Hernández, C.J., Martinez-Perez, F. (2026). SIVIGILA Dengue Pipeline: historical dengue surveillance data processing in R. Laboratory of Applied Cellular Genomics, Industrial University of Santander, Bucaramanga, Santander, Colombia. Available from: https://github.com/GenomicUIS/DENV/tree/main/code_SIVIGILA
 
-For reproducibility, include the release tag or full commit used. The version inspected while preparing this documentation was commit `aafa9fd770564615037ba556b365719327e4322a`, dated 6 October 2026. This is a source identifier, not a software DOI or proof of runtime validation.
-
-Cite the thesis separately. Cite INS data [2] and DANE cartography [6] separately from the code.
+For reproducibility, include the release tag or full commit used. The version inspected while preparing this documentation was commit `aafa9fd770564615037ba556b365719327e4322a`, dated 6 October 2026. This is a source identifier, not a software DOI or proof of runtime validation. Cite the thesis separately. Cite INS data [2] and DANE cartography [6] separately from the code.
 
 ## License
 
@@ -308,7 +306,7 @@ Academic users are encouraged to cite this software, its developers, the data so
 
 ## References
 
-1. Cadena-Caballero, C.E., Vera-Cala, L.M., Barrios Hernández, C.J., Martinez-Perez, F. (2026). SIVIGILA Dengue Pipeline: historical dengue surveillance data processing in R. Laboratory of Applied Cellular Genomics, Industrial University of Santander Bucaramanga, Santander, Colombia. Available from: https://github.com/GenomicUIS/DENV/tree/main/code_SIVIGILA
+1. Cadena-Caballero, C.E., Vera-Cala, L.M., Barrios Hernández, C.J., Martinez-Perez, F. (2026). SIVIGILA Dengue Pipeline: historical dengue surveillance data processing in R. Laboratory of Applied Cellular Genomics, Industrial University of Santander, Bucaramanga, Santander, Colombia. Available from: https://github.com/GenomicUIS/DENV/tree/main/code_SIVIGILA
 2. Instituto Nacional de Salud. Portal Sivigila web 4.0: búsqueda de microdatos [Internet]. Bogotá: INS; [cited 2026 Oct 6]. Available from: https://portalsivigila.ins.gov.co/buscador
 3. Instituto Nacional de Salud. Diccionario de datos Sivigila 2026 [Internet]. Bogotá: INS; 2026 [cited 2026 Oct 6]. Available from: https://www.ins.gov.co/BibliotecaDigital/diccionario-datos-sivigila-2026-VF.pdf
 4. Instituto Nacional de Salud. Manual del usuario Sivigila 4.0 [Internet]. Bogotá: INS; [cited 2026 Oct 6]. Available from: https://www.ins.gov.co/BibliotecaDigital/manual-del-usuario-sivigila-4-0.pdf
