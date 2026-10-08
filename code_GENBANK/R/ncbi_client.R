@@ -1,7 +1,7 @@
 # NCBI E-utilities client built on httr2.
 
-new_ncbi_client <- function(api_key = trimws("7f416aa028ff69e0b9f014e6a224ea112408"),
-                            email   = trimws("cadena.9605@gmail.com"),
+new_ncbi_client <- function(api_key = trimws("XXXXXXXXXXXXXXXXXXXXXXXXXX"),
+                            email   = trimws("XXXXXXXXXXXXXXXXXXXXXXXXXX"),
                             tool    = Sys.getenv("NCBI_TOOL",
                                                  "DENGUE_SURAMERICA"),
                             base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
