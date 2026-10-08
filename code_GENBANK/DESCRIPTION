@@ -1,0 +1,14 @@
+Package: dengue-suramerica
+Title: South American Dengue Genome Curation Pipeline
+Version: 0.1.0
+Authors@R: person("Dengue", "Suramerica", email = "noreply@example.com",
+                  role = c("aut", "cre"))
+Description: Downloads, curates, and organizes dengue virus sequences from
+    NCBI GenBank for South American countries. Produces FASTA and GenBank
+    files organized by serotype and country, with metadata, statistics,
+    and QC tiers suitable for phylogenetic analysis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1)
+Imports: httr2 (>= 1.0.0), xml2 (>= 1.3.0), openxlsx (>= 4.2.0)
+RoxygenNote: 7.3.1
