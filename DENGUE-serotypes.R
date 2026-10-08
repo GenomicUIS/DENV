@@ -7,7 +7,7 @@ library(jsonlite)
 
 # Constants and configuration
 BASE_URL <- "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
-API_KEY <- "0142866f7ab066271cca2802824901de9408"
+API_KEY <- "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 BATCH_SIZE <- 100
 RETRY_ATTEMPTS <- 5
 RETRY_DELAY <- 3
